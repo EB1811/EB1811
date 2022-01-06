@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"><b>Hi 👋, I'm Emmanuil</b></h1>
 
-<!--
-**EB1811/EB1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://eb1811.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/emmanuils-borov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>&nbsp;
+<a href="https://dev.to/emmanuilsb"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b>Software Engineer specialising in Frontend and Cloud development.</b></p>
+<br/>
+<div align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=EB1811&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EB1811&theme=react&layout=compact" />
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EB1811&theme=algolia&background=0d1117&hide_border=true" />
+</div>
