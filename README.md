@@ -9,7 +9,6 @@
 <p align="center"><b>Software Engineer specialising in Frontend and Cloud development.</b></p>
 <br/>
 <div align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=EB1811&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EB1811&theme=react&layout=compact" />
 </div>
 <div align="center">
